@@ -1,0 +1,17 @@
+1. /mnt - A directory where external hdd or any other removable device can be mounted. 
+2. ls -al  -> lists detailed information about contents in the current directory.
+3. -a -> shows hidden files. Hidden files and directories in Linux start with a dot
+4. -l -> displays contents in a long (detailed info) format. 
+5. /mnt/c - for the Ubuntu app in win the hdd contents appear like mountable.
+6. Options or flags are preceded by - whereas the cmds are not.
+7. dir/ls -> cmds to get contents in the current directory.
+8. mkdir -> make a new directory.
+9. mv old_name new_name - to change the nameo of the directory. mv cmd is used for moving files/directories.
+10. gcc hello.c -o hello or gcc -o hello hello.c -> Save the file and compile it into an executable file 'hello'. Helps You to ctrl the name of the executable file rather than relying with 'a.out'
+11. ./hello -> to run the binary file (hello) created.
+12. gcc hello.c -> to compile.
+13. ./a.out -> to run the .out file created.
+14. ./ -> it specifies the current directory.
+15. a.out -> Is the default name of an executable(.out) file created by a C compiler when compiled without specifying an output file name.
+16. cd .. -> how to go one step up the directory tree in cmd and bash shell.
+17. time ./a.out - to measure the execution time. only in bash shell. 
